@@ -1,0 +1,5 @@
+title: Exploratory Data Analysis (EDA)
+description: Used Kaggle Cal Careers Dataset to perform EDA to determine trends in salary, invtestigating the number of each job category in the state, 
+performing data cleaning to determine earnings per job category to identify the patterns in California Career jobs. 
+show_downloads: false
+theme: jekyll-theme-minimal
