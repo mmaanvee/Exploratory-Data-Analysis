@@ -30,7 +30,7 @@ Identified patterns or discrepancies in salary ranges among different career fie
 Highlighted the most prevalent job categories in the state of California
 Identified any notable variations or concentrations in specific areas.
 - Insights and Conclusions
-Discuss the significant insights derived from the analysis, such as:
+Sacramento County has the highest amount of Permanent/Fulltime Employees 
 
 ## Tools and Techniques
 Python libraries (e.g., Pandas, Matplotlib)
