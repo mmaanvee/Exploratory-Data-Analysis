@@ -33,4 +33,4 @@ Identified any notable variations or concentrations in specific areas.
 Discuss the significant insights derived from the analysis, such as:
 
 ## Tools and Techniques
-Mention the tools, libraries (e.g., Pandas, Matplotlib), and statistical methods used for data analysis and visualization.
+Python libraries (e.g., Pandas, Matplotlib)
